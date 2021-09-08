@@ -42,8 +42,8 @@ const NavLg = () =>{
         <>
         <div className="container mx-auto px-4 flex items-center justify-between">
         <div className="flex items-center w-1/2 gap-3">
-            <div className="w-12 h-12">
-             <img src="https://c8.alamy.com/comp/PP9KFC/ecology-idea-green-bulb-with-plant-vector-illustration-isolated-on-white-background-ecology-concept-green-energy-ecological-energy-vector-symbol-PP9KFC.jpg" alt="logo" className="w-full h-full"/>
+            <div className="w-30 h-10">
+             <img src="https://in.bmscdn.com/webin/common/icons/logo.svg" alt="logo" className="w-full h-full"/>
            </div>
         <div className="w-full h-full flex items-center bg-white gap-3 px-3 py-2 rounded-sm">
 <BiSearch />
